@@ -2,6 +2,6 @@
 
 ![window view](cover.png?raw=true "cover img")
 
-*[Lab schedule] site demo*
+*See [original google sheet] for more info*
 
-[Lab schedule]: https://docs.google.com/spreadsheets/d/1O6DuHfjHKP6U52HuQrRpoV3dy5gCa4e0ZCVxjccE-LQ/edit?usp=sharing
+[original google sheet]: https://docs.google.com/spreadsheets/d/1O6DuHfjHKP6U52HuQrRpoV3dy5gCa4e0ZCVxjccE-LQ/edit?usp=sharing
