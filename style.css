@@ -16,7 +16,7 @@ a {
 
 h1, h2, h3 {
     background: #ffffff;
-    color: #ce2424;    
+    color: #500a0a;    
     width: 95%;
     height: auto;
     margin-top: 0;
@@ -66,9 +66,9 @@ hr {
     border: 0;
     width: 100%;
     text-align: left;
-    color: #a8a8a8;
+    color: #500a0a;
     font-size: 17px;
-    font-weight: normal;
+    font-weight: lighter;
     font-style: italic;
     text-transform:uppercase;
 }
@@ -89,7 +89,7 @@ hr {
  
 th {
     color:#ffffff;;
-    background:rgb(255, 166, 166);
+    background:rgba(255, 0, 0, 0.69);
     border-right: 1px solid rgba(255, 255, 255, 0.26);
     border-bottom: 2px solid #ffcccc;    
     font-size:15;
